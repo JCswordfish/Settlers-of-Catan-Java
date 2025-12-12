@@ -1,4 +1,4 @@
-#Settlers of Catan in Java
+# Settlers of Catan in Java
 
 Rundown of each file's purpose:
 
