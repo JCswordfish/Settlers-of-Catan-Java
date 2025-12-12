@@ -1,6 +1,6 @@
 # Settlers of Catan in Java
 
-Rundown of each file's purpose:
+Below contains a rundown of each file's purpose:
 
 ## Networking
 - `ClientScreen.java` - runs the GUI of each player, as well as inputs/outputs.
