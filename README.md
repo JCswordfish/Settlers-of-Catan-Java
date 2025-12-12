@@ -14,7 +14,7 @@ Below contains a rundown of each file's purpose:
 - `Tile.java`, `TileType.java`, `Trade.java`, `Devcard.java`, `Settlement.java` - Game objects (tiles, trade requests, development cards, settlements)
 
 
-##Data Structures
+## Data Structures
 - `MyArrayList.java`, `MyDLList.java`, `Node.java`:  Helpful and advanced data structures which optimize game performance.
 
 
